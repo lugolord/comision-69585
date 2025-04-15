@@ -1,8 +1,28 @@
-# React + Vite
+# 🛒 React eCommerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación de eCommerce desarrollada con **React**. Permite a los usuarios:
 
-Currently, two official plugins are available:
+- Ver una lista de productos 📦  
+- Filtrar productos por categoría 🔍  
+- Agregar productos al carrito 🛒  
+- Finalizar la orden de compra ✅
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologías utilizadas
+
+- **React** – Framework base para la interfaz de usuario  
+- **React Bootstrap** – Componentes estilizados listos para usar  
+- **React Router** – Navegación entre vistas  
+- **Firebase** – Backend para base de datos y manejo de órdenes  
+
+### 📦 Dependencias principales
+
+- [React Bootstrap](https://react-bootstrap.github.io/)  
+- [React Router](https://reactrouter.com/en/main)  
+- [Firebase](https://firebase.google.com/docs)
+
+## 🔧 Instalación
+
+1. Cloná este repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
